@@ -12,4 +12,4 @@
 # 台指情緒指數
 
 # 產業指數-
-![圖片介紹](https://github.com/ChangWH22/test/blob/main/images/12.g)
+![圖片介紹](https://github.com/ChangWH22/test/blob/main/images/12.png)
